@@ -1,6 +1,6 @@
 # Custom-CNN-with-EfficientNetV2B0-and-Vision-Transform
-# Breast Cancer Histopathological Database (BreakHis)
-BreakHis Dataset
+Breast Cancer Histopathological Database (BreakHis)
+
 # Custom CNN with EfficientNetV2B0 and Vision Transform
 The official code for ["BreakHis"](https://www.kaggle.com/datasets/ambarish/breakhis).
 
