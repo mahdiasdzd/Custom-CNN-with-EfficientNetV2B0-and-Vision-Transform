@@ -32,6 +32,6 @@ breast-cancer-histopathological-breakhis (2)
 
 ## Results
 Performance comparision on Classification dataset.
-![](https://github.com/mahdiasdzd/Brats2021/blob/main/Model-Results.png)
+![](https://github.com/mahdiasdzd/Custom-CNN-with-EfficientNetV2B0-and-Vision-Transform/blob/main/modelResult.png)
 
 
